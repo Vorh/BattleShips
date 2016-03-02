@@ -1,0 +1,9 @@
+.root {
+      -fx-background-image: url("/images/bg3.jpg");
+      }
+.menuGame {
+       -fx-background-image: url("/images/bgMenu.jpg");
+}
+.menubg {
+    -fx-background-color: darkgray;
+}
